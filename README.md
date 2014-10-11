@@ -1,4 +1,4 @@
 erl
 ===
 
-some erlang function code or kit
+some erlang function code or kit.
